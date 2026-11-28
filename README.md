@@ -11,6 +11,8 @@ Rollust copies the photos and videos from an iPhone connected by USB to a folder
 - **Copies by USB.** Photos and videos go straight from the iPhone to the folder you pick. Pick the whole gallery, a date range or exact folders and files.
 - **Checks every file.** Each copied file is checked for size, hash and decoding while the copy goes on.
 - **Says what is safe to delete.** The result lists each iPhone folder and marks it "Safe to delete" only when every file in it was copied and checked.
+- **Several iPhones at once.** Plug in two iPhones and back them up at the same time, each one into its own folder.
+- **Remembers each iPhone.** Explore marks what was already backed up and where, and lists what was deleted from the iPhone since. The history is encrypted with Windows and stays on your PC.
 - **Picks up where it stopped.** Files already on the PC are skipped. If the iPhone is unplugged or locks mid-copy, Rollust waits, reconnects and goes on from the same file.
 - **Guides you.** A step-by-step guide prepares the iPhone and the Apple USB driver, and checks whether the iPhone sends original HEIC files.
 - **Stays out of the way.** Closing the window keeps the copy going from the tray. Sounds and notifications tell you when it ends or needs you.
@@ -58,6 +60,8 @@ Rollust copia las fotos y videos de un iPhone conectado por USB a una carpeta de
 - **Copia por USB.** Las fotos y videos van directo del iPhone a la carpeta que elijas: toda la galería, un rango de fechas o carpetas y archivos exactos.
 - **Revisa cada archivo.** Comprueba el tamaño, el hash y que cada archivo se pueda abrir, mientras la copia sigue.
 - **Dice qué es seguro borrar.** El resultado lista cada carpeta del iPhone y solo la marca «Lista para borrar» cuando todos sus archivos se copiaron y verificaron.
+- **Varios iPhones a la vez.** Conecta dos iPhones y respáldalos al mismo tiempo, cada uno en su propia carpeta.
+- **Recuerda cada iPhone.** Explorar marca lo que ya se respaldó y dónde, y lista lo que se borró del iPhone después. El historial va cifrado con Windows y se queda en tu PC.
 - **Sigue donde se quedó.** Salta los archivos que ya están en el PC. Si el iPhone se desconecta o se bloquea, Rollust espera, se reconecta y sigue desde el mismo archivo.
 - **Te guía.** Una guía paso a paso prepara el iPhone y el driver USB de Apple, y revisa si el iPhone manda las fotos HEIC originales.
 - **No estorba.** Al cerrar la ventana la copia sigue desde la bandeja. Sonidos y notificaciones te avisan cuando termina o te necesita.

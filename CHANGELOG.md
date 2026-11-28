@@ -15,6 +15,8 @@ Write each entry as something the user notices, in one short sentence.
 
 ### Added
 
+- Back up several iPhones at once, for example on two USB ports. Each iPhone gets its own folder inside the destination and its own card above the copy, where you pause, cancel, retry or see the result of that iPhone. The tray lists every iPhone and can pause or resume them all, and the next copy of an iPhone goes back to the folder it used before.
+- Explore shows how many backed-up files were deleted from the iPhone since, and "View history" lists them with whether the PC copy is still there, plus each iPhone's recent activity. Clean only forgets them in Rollust; it never touches the iPhone or the PC.
 - Rollust remembers each iPhone and what was backed up from it and where, in a file encrypted with Windows so only Rollust on your account can read it. Explore marks files backed up and still on the PC in green, and files backed up but no longer at that path in yellow ("No longer there"), with the date and folder; it never searches other folders. Settings → Data can forget it.
 - Uninstalling now honors the two boxes in Settings → Uninstall: it deletes your settings, or the scan cache, the iPhone history and the logs, only if you checked them. Your copied photos and their reports are never touched.
 
