@@ -7,6 +7,8 @@ Write each entry as something the user notices, in one short sentence.
 
 ## [Unreleased]
 
+## [1.0.0] - 2026-11-27
+
 ### Changed
 
 - Rollust is now freeware under the Rollust Freeware License: still free for personal and commercial use, but its source code is no longer published. Settings → License lists the bundled third-party licenses.
